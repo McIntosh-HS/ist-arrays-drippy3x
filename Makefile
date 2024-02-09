@@ -5,3 +5,10 @@ intarray: intarray.c
 
 curlyarray: curlyarray.c
 	gcc curlyarray.c -o curlyarray
+
+valentine: valentine.c
+	gcc valentine.c -o valentine
+
+
+
+
